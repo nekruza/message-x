@@ -1,5 +1,5 @@
 import React from "react";
-import "./sidebar.css";
+import "./sidebar.scss";
 import User from "../../Containers/User/User";
 
 const Sidebar = ({ contacts }) => {

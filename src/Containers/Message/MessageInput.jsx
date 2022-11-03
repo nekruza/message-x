@@ -1,7 +1,7 @@
 import React from "react";
 import store from "../../store/index";
 import { setTypingValue, sendMessage } from "../../action/index";
-import "./MessageInput.css";
+import "./MessageInput.scss";
 
 
 const MessageInput = ({ value }) => {

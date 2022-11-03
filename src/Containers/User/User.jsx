@@ -1,5 +1,5 @@
 import React from "react";
-import "./user.css";
+import "./user.scss";
 import store from "../../store/index";
 import { setActiveUserId } from "../../action/index";
 

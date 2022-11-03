@@ -3,7 +3,7 @@ import store from "../../store/index";
 import Header from "../../Components/Header/Header";
 import Chats from "../../Components/Chats/Chats";
 import _ from "lodash";
-import "./ChatWindow.css"
+import "./ChatWindow.scss"
 import MessageInput from "../Message/MessageInput";
 
 

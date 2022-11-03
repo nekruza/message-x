@@ -1,5 +1,5 @@
 import React from "react";
-import "./Empty.css";
+import "./Empty.scss";
 import store from "../../store/index";
 import { setActiveUserId } from "../../action/index";
 import _ from "lodash";

@@ -1,0 +1,19 @@
+@function addNumber($a, $b){
+  @return $a * $b
+}
+
+.Message {
+  width: addNumber(8%, 10);
+  margin: 1rem auto;
+  
+  .Message__input {
+    width: addNumber(10%, 10);
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+    font-size: 1rem;
+    outline: 0;
+  }
+}

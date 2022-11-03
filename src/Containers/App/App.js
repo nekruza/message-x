@@ -1,5 +1,5 @@
 import React from 'react';
-import "./App.css";
+import "./App.scss";
 import Main from '../../Components/Main/Main';
 import Sidebar from '../../Components/Sidebar/Sidebar';
 import { contacts } from '../../data/userData';
